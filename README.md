@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @amirthamurali
+- I have worked as a Senior Software Engineer 
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python for data science
 - 📫 Mail me at amirthav.murali@gmail.com
